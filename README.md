@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 I'm a passionate *Full Stack Software Engineer* who loves writing clean, maintainable, and scalable code.
+- 🧠 *Full Stack Software Engineer* who loves writing clean, maintainable, and scalable code.
 - 💡 I specialize in *PHP, **JavaScript, **SQL, and modern tools like **React, **SCSS, **Axios, and **Tailwind*.
 - 🧹 I enjoy *refactoring, **modular design*, and clean architecture.
 - 🛠 I thrive in environments where *quality and precision* matter.

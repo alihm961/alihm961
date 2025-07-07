@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ali Mazloum</h1>
+<h1 align="center">Hi there 👋, I'm Ali</h1>
 <h3 align="center">🚀 Full Stack Software Engineer | Clean Code Advocate | Tech Enthusiast</h3>
 
 <p align="center">
